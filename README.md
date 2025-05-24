@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vitor Eleotério</h1>
+<h3 align="center">A passionate Android & Backend developer from Brazil</h3>
 
-<!--
-**VitorEleoterio/VitorEleoterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaosilva&label=Profile%20views&color=0e75b6&style=flat" alt="VitorEleoterio" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [MyBankApp](https://github.com/VitorEleoterio/MyBankApp)
+- 🌱 I’m currently learning **Clean Architecture, MVVM, Kotlin Coroutines**
+- 💬 Ask me about **Android, Kotlin, Java, SQL**
+- 📫 How to reach me: **joao.silva@email.com**
+- ⚡ Fun fact: I love cats 🐱 and AI 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,sqlite,figma,gradle" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorEleoterio&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEleoterio&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-eleoterio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:vitor9263@email.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>

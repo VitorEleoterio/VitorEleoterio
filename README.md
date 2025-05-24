@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Android & Backend developer from Brazil</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaosilva&label=Profile%20views&color=0e75b6&style=flat" alt="VitorEleoterio" />
+  <img src="https://komarev.com/ghpvc/?username=VitorEleoterio&label=Profile%20views&color=0e75b6&style=flat" alt="VitorEleoterio" />
 </p>
 
 - 🔭 I’m currently working on [MyBankApp](https://github.com/VitorEleoterio/MyBankApp)
 - 🌱 I’m currently learning **Clean Architecture, MVVM, Kotlin Coroutines**
 - 💬 Ask me about **Android, Kotlin, Java, SQL**
-- 📫 How to reach me: **joao.silva@email.com**
+- 📫 How to reach me: **vitor9263@email.com**
 - ⚡ Fun fact: I love cats 🐱 and AI 🤖
 
 ---
